@@ -6,3 +6,6 @@ How to run:
 3. Run 'npm install' and 'npm update'
 4. Run npm run dev
 5. Use the given localhost address that the terminal generate
+
+View the project live on Vercel:
+digital-clock-three-tau.vercel.app
